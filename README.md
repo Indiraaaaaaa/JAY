@@ -28,7 +28,3 @@ Idol
 *.a
 *.lib
 
-# Executables
-*.exe
-*.out
-*.app
